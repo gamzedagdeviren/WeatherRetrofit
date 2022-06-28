@@ -30,5 +30,4 @@
         android:layout_centerInParent="true"
         android:visibility="gone"
         tools:visibility="visible" />
-
 </RelativeLayout>
